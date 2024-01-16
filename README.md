@@ -1,4 +1,4 @@
-# Comedy Connect Platform
+# Comedy Connect 
 
 ## Executive Summary
 
