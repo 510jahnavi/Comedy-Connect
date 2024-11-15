@@ -39,6 +39,4 @@ To get started with Comedy Connect, follow these steps:
    ```bash
    git clone https://github.com/510jahnavi/comedy-connect.git
 
-
-    ```bash
    git clone https://github.com/namrit2000/comedy-connect.git
